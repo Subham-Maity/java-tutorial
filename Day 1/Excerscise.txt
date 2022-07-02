@@ -1,0 +1,6 @@
+Write a program to calculate the percentage of a given student in the CBSE board exam. His marks from 5 subjects must be taken as input from the keyboard. (Marks are out of 100)
+Write a program to sum three numbers.
+Write a program to calculate CGPA using marks of three subjects (out of 100)
+Write a Java program that asks the user to enter his/her name and greets them with “Hello <name>, have a good day” text.
+Write a Java program to convert Kilometers to miles.
+Write a Java program to detect whether a number entered by the user is an integer or not.
