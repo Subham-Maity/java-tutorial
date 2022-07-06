@@ -1,0 +1,35 @@
+CLI Use
+git status for check the stetus of pwd(present working directory) 
+
+1. Open terminal or gitbash 
+2. pwd (location check)
+3. git status (current stetus of the project)
+4. git init - open folder then terminal open and initialize the git
+5. add any file like text java c python 
+6. open terminal in this pwd 
+7. check the status by typing - git status 
+8. git add. - for adding all file which present in this folder 
+9. you can't push without commit(idea of the project or why you made changes) and m stands for messagee 
+- git commit -m "anything"
+10. nothing to commit, working tree clean means success
+11. first you have link your git repo with this local file - git remote add origin link
+12. now you can push -  git push -u origin master
+
+
+GUI Use 
+
+file > new repo > create repo > clone repo from github - git clone url > add file anything you want > add commit > push origin 
+
+if you delete the file just clone and modify 
+1.git clone 
+2.add file 
+3.open gui locate the file and add commit then push
+
+
+
+
+
+Copy someone's file
+open project and copy link then git clone 
+
+Done:)
