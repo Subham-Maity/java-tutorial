@@ -1,3 +1,6 @@
+# Question Made By Subham for Given Notes (if else if /Switch case / Escape Sequence / Case Switch / 
+
+
 ## 1. Print if a number is prime or not (Input n from the user). (without creating a method or recursion using if-else and for loop or do while loop only)
 
 ```
@@ -91,6 +94,9 @@ Java: 1. First take input as a char (letter like: A B C D )
 
 ## 6. (Escape sequence) format the following sentence using escape sequence characters only
 
+![17](https://user-images.githubusercontent.com/97989643/178255546-a9d7862d-6279-489c-a458-1a6080c474aa.png)
+
+
 ### Hint
 
 ```
@@ -144,7 +150,7 @@ using case switch and take the integer input from the user and operation to them
 the instructions are given in the question 
 ```
 
-## Create a simple Rock, Paper Scissors game
+## 9. Create a simple Rock, Paper Scissors game
 
 ### Hint
 
@@ -180,3 +186,7 @@ For pc win
 Any other case(except case1/case2/case3) computer win 
 Step 6:Now just print the counter for how many times user win
 ```
+
+## 10. What will be the result of the following expression and why 
+
+![11](https://user-images.githubusercontent.com/97989643/178255964-3b5121d4-18ff-405d-8ebd-b8a4082a7edc.png)
