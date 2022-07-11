@@ -3,7 +3,7 @@
 
 ## 1. Print if a number is prime or not (Input n from the user). (without creating a method or recursion using if-else and for loop or do while loop only)
 
-```
+```js
  Note : To find if a number is prime, why is checking till n/2 ?
             
 Well, whenever you find a number which is Prime or not , you check it till n/2. That is true, and there is no problem checking it till n. But we don’t check it because there is no possibility of getting a number x which is divisible by n and which lies on the second half of the number (n/2).
@@ -40,7 +40,7 @@ So, it is a waste of time to check further for any other number, or it is an ine
 ## 2. Write a program to find out whether a student is pass or fail; if it requires a total of 40% and at least 33% in each subject to pass. Assume 3 subjects and take marks as input from the user
 
 ### Hints
-```
+```js
 avg = (subject1 + subject2 + subject3)/3.0
         If Conditions: avg>=40 && subject1>=33 && subject2>=33 && subject3>=33
            print"Congratulations, You have been promoted"
@@ -49,7 +49,7 @@ avg = (subject1 + subject2 + subject3)/3.0
 
 ## 3. Calculate income tax paid by you to the government as per the slabs mentioned below:
 
-```
+```js
 Income Slab	              Tax
 2.5L – 5.0L  	        5% 
 5.0L – 10.0L 	        20%
@@ -64,7 +64,7 @@ Note that there is no tax below 2.5L. Take the input amount as input from the us
 
 ### Hints
 
-```
+```js
 Check if the year is divisible by 400 or 4 but not 100, DISPLAY "is a leap year",
 Otherwise, DISPLAY ": is not a leap year.""
 ```
@@ -75,7 +75,7 @@ Otherwise, DISPLAY ": is not a leap year.""
 Write a program for the first user to input his/her exam grade. Now the program asks for a code number to encrypt your grade by adding the number with your grade. Now the program asks you if you want to decrypt your grade press y or if no type n (note: Y/y or N/n case must be ignored and user can type the capital letter or small letter your program should understand)and if yes program will start decrypting your grade and show you your original grade otherwise program will print “ sorry sir/mam, we can't crack your grade “
 
 ### Hint 
-```
+```js
 Java: 1. First take input as a char (letter like: A B C D ) 
       2. Take an input as an integer value 
       3. Type cast them because if we do any operation between char and int, it returns int (it’s called numaric Promotion Rules 
@@ -99,7 +99,7 @@ Java: 1. First take input as a char (letter like: A B C D )
 
 ### Hint
 
-```
+```js
 So here we did like this
 Java :
 Escape Sequence :
@@ -130,7 +130,7 @@ Python :
 ## 7. Ask the user to enter the number of the month & print the name of the month. For eg - For ‘1’ print ‘January’, ‘2’ print ‘February’ & so on
 
 ### Hint 
-```
+```js
 Java: using the case switch and take the integer input from the user and print according to the number
 ```
 
@@ -154,7 +154,7 @@ the instructions are given in the question
 
 ### Hint
 
-```
+```js
 So here we did like this
 Rules and Main approach:
  Rock wins against scissors
