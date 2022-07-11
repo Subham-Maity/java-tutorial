@@ -1,4 +1,4 @@
-# Question Made By Subham for Given Notes (if else if /Switch case / Escape Sequence / Case Switch / 
+# Question Made By Subham for Given Notes (if else if /Switch case / Escape Sequence / Case Switch / Numaric Promotion Rules / Conversion / java Calculation )
 
 
 ## 1. Print if a number is prime or not (Input n from the user). (without creating a method or recursion using if-else and for loop or do while loop only)
