@@ -74,6 +74,35 @@ Otherwise, DISPLAY ": is not a leap year.""
 
 Write a program for the first user to input his/her exam grade. Now the program asks for a code number to encrypt your grade by adding the number with your grade. Now the program asks you if you want to decrypt your grade press y or if no type n (note: Y/y or N/n case must be ignored and user can type the capital letter or small letter your program should understand)and if yes program will start decrypting your grade and show you your original grade otherwise program will print “ sorry sir/mam, we can't crack your grade “
 
+```js
+Java: 1. First take a input as a char (letter like : A B C D ) 
+      2. Take a input as an integer value 
+      3. Type cast them because if we do any operation between char and int, it returns int (it’s called numaric Promotion Rules 
+1.Byte + Short = Int  
+2.Short + Int  = Int
+3.Long + Float = Float
+4.Character + Int = Int (here we use this)
+5.Character + Short = Int
+6.Long + Double = Double
+7.Float + Double = Double)So we must have to cast them into char 
+      4.Take a input as a string value (yes for y No for n) 
+      6.we check the input letter(y/n) and also ignore case by equalsIgnoreCase 
+      7.Type cast again and do this : Your given grade - Your given number 
+ 
+==========================================================================
+ 
+Python : To install “Click” package simply go to any terminal and type “pip install click”
+ 
+1. We used 'Click' module by this command "import click"
+2. Take a input as a string for your grade
+3. Take a input as an string for your code
+4. use 'click' for take yes or no on input
+       
+Python click module is used to create command-line (CLI) applications.
+It is an easy-to-use alternative to the standard optparse and argparse modules.
+```
+
+
 ### Hint 
 ```js
 Java: 1. First take input as a char (letter like: A B C D ) 
