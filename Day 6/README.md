@@ -103,22 +103,7 @@ It is an easy-to-use alternative to the standard optparse and argparse modules.
 ```
 
 
-### Hint 
-```js
-Java: 1. First take input as a char (letter like: A B C D ) 
-      2. Take an input as an integer value 
-      3. Type cast them because if we do any operation between char and int, it returns int (it’s called numaric Promotion Rules 
-01.Byte + Short = Int  
-02.Short + Int  = Int
-03.Long + Float = Float
-04.Character + Int = Int (here we use this)
-05.Character + Short = Int
-06.Long + Double = Double
-07.Float + Double = Double)So we just have to cast them into char 
-      4. Take an input as a string value (yes for y No for n) 
-      6.we check the input letter(y/n) and also ignore case by equalsIgnoreCase 
-      7. Type cast again and do this: Your given grade - Your given number 
-```
+
 
 
 ## 6. (Escape sequence) format the following sentence using escape sequence characters only
